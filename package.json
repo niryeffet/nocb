@@ -1,0 +1,25 @@
+{
+  "name": "nocb",
+  "version": "1.0.0",
+  "description": "No more callback pyramid of doom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niryeffet/nocb.git"
+  },
+  "keywords": [
+    "nodejs",
+    "callback",
+    "pyramid",
+    "doom"
+  ],
+  "author": "Nir Yeffet <nir-npmjs.com-8mvq@mailnicks.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niryeffet/nocb/issues"
+  },
+  "homepage": "https://github.com/niryeffet/nocb#readme"
+}
